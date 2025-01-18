@@ -1,0 +1,2 @@
+# Dart: Handling Network and JSON Parsing Exceptions
+This repository demonstrates a common error in Dart when handling asynchronous operations, specifically network requests and JSON parsing. The `bug.dart` file shows an example of incomplete error handling that can lead to application crashes. The improved solution in `bugSolution.dart` demonstrates best practices for more robust exception handling, making the application more stable and resilient.
